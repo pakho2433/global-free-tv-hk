@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "package": "hk.freetv.hub",
+  "bytes": 168905957,
+  "sha256": "3f7909e542d1bfcefb826788dc3b7bb2cee1b2ff60306bd914babe1c19de96d5",
+  "minimumAndroid": "8.0",
+  "architectures": [
+    "arm64-v8a",
+    "armeabi-v7a"
+  ],
+  "channels": 10134,
+  "regions": 179,
+  "testedStreams": 9,
+  "hkPlaybackVerified": false,
+  "panasonicHardwareVerified": false
+}
